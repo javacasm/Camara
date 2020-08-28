@@ -1,5 +1,62 @@
 # Cámara
 
+### [Nikon D3500](https://www.nikon.es/es_ES/product/digital-cameras/slr/consumer/d3500#tech_specs)
+
+![](https://cdn.nikoneurope.com/imported/images/web/EU/products/digital-cameras/dslr/D3500/D3500_AFP_18_55_VR_front34l--original.png)
+
+Montura del objetivo: Montura F de Nikon (con contactos AF)
+Formato DX de Nikon
+
+
+24,2 MP
+
+Tarjeta SD: SD, SDHC (compatible con UHS-I), SDXC (compatible con UHS-I)
+
+Sensor de imagen: DX, CMOS, 23,5 mm x 15,6 mm
+
+Tamaño de imagen (píxeles): (G) 6000 x 4000 (24,0 millones), (M) 4496 x 3000 (13,5 millones), (P) 2992 x 2000 (6,0 millones)
+
+Velocidad de obturación: De 1/4000 a 30 s, en pasos de 1/3 EV; opciones Bulb y Time
+
+Sensibilidad ISO: ISO 100-25600
+
+Vídeo: 1920 x 1080: 60p (progresivo), 50p, 30p, 25p, 24p; 1280 x 720: 60p, 50p;
+
+Puntos de enfoque: 11, es posible seleccionar entre 11 puntos de enfoque
+
+
+
+Pantalla: 7,5 cm de diagonal, 921000 puntos
+
+Peso: 415g
+
+
+
+### [Nikon D90](https://www.nikon.es/es_ES/product/discontinued/digital-cameras/2015/d90#tech_specs)
+
+![](https://cdn.nikoneurope.com/tmp/EU/2419865273/3760176746/2327365364/27184057/1391280926/2780083465/1053240650/3915156789/2964121563/2693742872/2155014977.png)
+
+
+Píxeles efectivos:12,3 MP
+
+
+Sensor de imagen: Sensor CMOS de 23,6 x 15,8 mm
+
+Tamaño de imagen (píxeles): - 4288 x 2848 (L) - 3216 x 2136 (M) - 2144 x 1424 (S)
+
+Tarjetas de memoria SD (Secure Digital) compatibles con SDHC; MAX: 32Gb
+
+
+Velocidad de obturación: De 1/4000 a 30 s en pasos de 1/3 o 1/2 EV; opciones Bulb y Time 
+
+Sensibilidad ISO:  ISO 200–3200 en pasos de 1/3 EV.
+
+Vídeo: 640 x 424, 24 fps 320 x 216, 24 fps 1280 x 720, 24 fps
+
+Puntos de enfoque: 11
+
+Peso: Aprox. 620 g
+
 ## Objetivos
 
 [Lista de objetivos más usados](https://nikond3500blog.com/best-lenses/)
@@ -22,6 +79,12 @@
 * Distancia de enfoque mínima: 0,28 m (en todo el rango focal)
 * Peso: 565 g
 
+
+### Comparativa 18-200mm con 70-300mm
+
+Comparación del campo
+
+![](https://4.img-dpreview.com/files/w/TS940x940?url=http%3A%2F%2Ffarm1.static.flickr.com%2F159%2F332205668_2d0f71a009_o.jpg&signature=wVGjckOxmmjaXCS%2F7EEuJFrOEX8%3D)
 
 ### AF-S Nikkor 18-55mm 1:3.5-5.6G [nikon](https://www.nikon.es/es_ES/product/discontinued/nikkor-lenses/2018/af-s-dx-nikkor-18-55mm-f-3-5-5-6g-vr)
 
