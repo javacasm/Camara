@@ -4,6 +4,8 @@
 
 ![](https://cdn.nikoneurope.com/imported/images/web/EU/products/digital-cameras/dslr/D3500/D3500_AFP_18_55_VR_front34l--original.png)
 
+Lanzada al mercado en [Agosto de 2018](https://todo-fotografia.com/camaras/nikon-d3500-ficha-tecnica/)
+
 Montura del objetivo: Montura F de Nikon (con contactos AF)
 Formato DX de Nikon
 
@@ -36,6 +38,7 @@ Peso: 415g
 
 ![](https://cdn.nikoneurope.com/tmp/EU/2419865273/3760176746/2327365364/27184057/1391280926/2780083465/1053240650/3915156789/2964121563/2693742872/2155014977.png)
 
+Cámara lanzada en [Agosto de 2008](https://es.wikipedia.org/wiki/Nikon_D90)
 
 Píxeles efectivos:12,3 MP
 
